@@ -1,3 +1,3 @@
 # Libreria - SQL Project
 
-Este proyecto tuvo por objetivo perfeccionar y demostrar mis habilidades con SQL y bases de datos. Mas detalles en el informe.
+This project was aimed at demonstrating and training my skills with SQL and databases. More details in the report.
